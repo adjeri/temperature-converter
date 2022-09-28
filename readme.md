@@ -32,7 +32,7 @@ Please check the terminal for the URL of the server. By default, it will be http
 yarn test
 ```
 
-7. [How to deploy](##how-to-deploy)
+7. [How to deploy](#how-to-deploy)
 
 # Summary
 
